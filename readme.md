@@ -1,6 +1,6 @@
 # woocommerce 网站模版
 
-#  羽状插件
+#  预装插件
 
 * akismet
 * all-in-one-seo-pack
